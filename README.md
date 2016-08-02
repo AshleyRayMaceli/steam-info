@@ -1,3 +1,7 @@
+![User Profile Stats](screenshot1.png)
+
+![Game Stats Page](screenshot2.png)
+
 # Steam Shame
 
 An Ember 2 web app that utilizes various calls in the Steam API to output interesting data about Steam games, user profiles and user playtime.
@@ -26,7 +30,7 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone <https://github.com/AdamCraig/steam-info>`
+* `git clone <https://github.com/AshleyRayMaceli/steam-info>`
 * change into the new directory
 * `npm install`
 * `bower install`
